@@ -1,3 +1,3 @@
 ## Recriações
 
-Repositório para guardar minhas tentativas de clonar vários sites!
+Repositório para guardar minhas recriações de vários sites!
