@@ -1,3 +1,3 @@
 ## Recriações
 
-Repositório para guardar minhas recriações de vários sites!
+Repositório para guardar os sites que faço para treinar os conteúdos aprendidos!
